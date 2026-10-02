@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0001-two-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
