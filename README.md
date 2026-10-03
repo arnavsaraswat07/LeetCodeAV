@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
