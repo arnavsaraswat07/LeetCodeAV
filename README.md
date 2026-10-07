@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
 | [0904-fruit-into-baskets](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1004-max-consecutive-ones-iii) |
+| [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sliding Window
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -115,10 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
+| [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
