@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0516-longest-palindromic-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0516-longest-palindromic-subsequence) |
 | [0856-score-of-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0856-score-of-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1143-longest-common-subsequence) |
 ## Stack
