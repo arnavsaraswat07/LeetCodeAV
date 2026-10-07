@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0042-trapping-rain-water) |
 | [0198-house-robber](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -117,4 +119,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
