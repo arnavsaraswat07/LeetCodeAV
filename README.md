@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0516-longest-palindromic-subsequence) |
 | [0856-score-of-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3498-reverse-degree-of-a-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0042-trapping-rain-water) |
 | [0856-score-of-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
