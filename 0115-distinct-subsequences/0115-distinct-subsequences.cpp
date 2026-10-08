@@ -14,7 +14,7 @@ public:
             for(int index2=1;index2<=j;index2++){
                 if(s[index1-1]==t[index2-1]){
                     dp[index1][index2]=dp[index1-1][index2-1]+dp[index1-1][index2];
-                }
+                }   
                 else{
                     dp[index1][index2]=dp[index1-1][index2];
                 }
