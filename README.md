@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Dynamic Programming
 |  |
 | ------- |
