@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
+| [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1004-max-consecutive-ones-iii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
+| [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1143-longest-common-subsequence) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0064-minimum-path-sum) |
+| [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1463-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
