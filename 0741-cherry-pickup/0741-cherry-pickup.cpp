@@ -6,7 +6,7 @@ public:
         int n = grid.size();
         int c2 = r1 + c1 - r2;
 
-        // Bounds check before accessing grid
+        
         if (r1 >= n || c1 >= n || r2 >= n || c2 >= n)
             return INT_MIN / 2;
 
@@ -25,10 +25,10 @@ public:
             cherries += grid[r2][c2];
 
         int best = max({
-            solve(r1 + 1, c1,     r2 + 1, grid, dp), // Both down
-            solve(r1 + 1, c1,     r2,     grid, dp), // First down, second right
-            solve(r1,     c1 + 1, r2 + 1, grid, dp), // First right, second down
-            solve(r1,     c1 + 1, r2,     grid, dp)  // Both right
+            solve(r1 + 1, c1,     r2 + 1, grid, dp), 
+            solve(r1 + 1, c1,     r2,     grid, dp), 
+            solve(r1,     c1 + 1, r2 + 1, grid, dp), 
+            solve(r1,     c1 + 1, r2,     grid, dp)  
         });
 
         return dp[r1][c1][r2] = cherries + best;
