@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0904-fruit-into-baskets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
 | [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0174-dungeon-game) |
+| [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0994-rotting-oranges) |
