@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1004-max-consecutive-ones-iii) |
 | [1020-number-of-enclaves](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1049-last-stone-weight-ii) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1020-number-of-enclaves) |
 | [1463-cherry-pickup-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1463-cherry-pickup-ii) |
 ## Breadth-First Search
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
