@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0198-house-robber) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0130-surrounded-regions) |
 | [0337-house-robber-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0337-house-robber-iii) |
 | [0547-number-of-provinces](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0064-minimum-path-sum) |
+| [0130-surrounded-regions](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0174-dungeon-game) |
 | [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
