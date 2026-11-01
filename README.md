@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0904-fruit-into-baskets) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0139-word-break](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0139-word-break) |
+| [0560-subarray-sum-equals-k](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
