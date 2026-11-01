@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0072-edit-distance) |
