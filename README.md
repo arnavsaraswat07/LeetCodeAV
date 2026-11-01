@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Knapsack Problem
@@ -274,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0207-course-schedule) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
