@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0739-daily-temperatures) |
 | [0741-cherry-pickup](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0741-cherry-pickup) |
 | [0904-fruit-into-baskets](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0931-minimum-falling-path-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
