@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0337-house-robber-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0435-non-overlapping-intervals) |
 | [0516-longest-palindromic-subsequence](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0542-01-matrix) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/0455-assign-cookies) |
 | [3536-maximum-product-of-two-digits](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/arnavsaraswat07/LeetCodeAV/tree/master/3727-maximum-alternating-sum-of-squares) |
